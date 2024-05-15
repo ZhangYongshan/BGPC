@@ -4,13 +4,12 @@ Code for ["Bipartite Graph-based Projected Clustering with Local Region Guidance
 
 ## Run
 
-1. Add the path for HSI in the 5th line of `demo.m`.
-2. Run `demo.m`
+1. Run `demo.m`
 
 ## Cite
 
 ```
-Yongshan Zhang, Gguozhu Jiang, Zhihua Cai and Yicong Zhou, "Bipartite Graph-based Projected Clustering with Local Region Guidance for Hyperspectral Imagery," in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2024.3394975.
+Y. Zhang, G. Jiang, Z. Cai and Y. Zhou, "Bipartite Graph-based Projected Clustering with Local Region Guidance for Hyperspectral Imagery," in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2024.3394975.
 ```
 
 ```bib
